@@ -25,7 +25,7 @@
                   <property name="height" value="103" />
                 </properties>
               </option>
-              <option name="html5_logo_url" value="mobile/6XKKxNDoV8P.png" />
+              <option name="html5_logo_url" value="mobile/6FbluJuTQyf.png" />
             </options>
           </option>
           <option name="sidebar_enabled" value="true">
@@ -1168,60 +1168,60 @@
   <string_tables>
     <string_table name="npnxnanbnsnfns01001000101">
       <string id="acc_active">פעיל</string>
-      <string id="acc_closed_captions">כתוביות מקודדות. הקש על מקש הרווח כדי להפעיל ולכבות כתוביות.</string>
-      <string id="acc_definition">הגדרה</string>
-      <string id="acc_finish">סיום</string>
-      <string id="acc_next">הבא</string>
-      <string id="acc_pause">השהה</string>
-      <string id="acc_play">הפעל</string>
-      <string id="acc_previous">הקודם</string>
-      <string id="acc_replay">הפעל מחדש</string>
-      <string id="acc_resources">משאבים</string>
-      <string id="acc_search_input">חיפוש</string>
-      <string id="acc_skipnavigation">.דלג על הניווט הקש "אנטר" כדי לחזור לשקופית</string>
-      <string id="acc_submit">שלח</string>
-      <string id="acc_submitall">שלח הכול</string>
-      <string id="acc_volume">עוצמת קול</string>
-      <string id="action">פעולה</string>
-      <string id="bio">ביוגרפיה</string>
       <string id="check_include">סמן כדי לכלול</string>
       <string id="clear">נקה וחזור לתפריט</string>
       <string id="close">סגור</string>
-      <string id="closed_captions">כתוביות</string>
+      <string id="acc_closed_captions">כתוביות מקודדות. הקש על מקש הרווח כדי להפעיל ולכבות כתוביות.</string>
       <string id="continue">המשך</string>
       <string id="continueresponsive">המשך</string>
-      <string id="definition">הגדרה</string>
-      <string id="desktop_start">התחל קורס</string>
-      <string id="disabled_orientation">סובב את המכשיר שלך</string>
       <string id="exit">יציאה</string>
       <string id="filter">סינון</string>
       <string id="finish">סיום</string>
+      <string id="acc_finish">סיום</string>
+      <string id="definition">הגדרה</string>
+      <string id="acc_definition">הגדרה</string>
       <string id="glossary">מילון מונחים</string>
+      <string id="terms">מונחים</string>
+      <string id="action">פעולה</string>
       <string id="keyboardshortcuts">קיצורי מקשים</string>
-      <string id="mobile_start">התחל קורס</string>
-      <string id="more_info">מידע נוסף</string>
-      <string id="next">הבא</string>
+      <string id="shortcuthelp">רשימת קיצורי מקשים</string>
+      <string id="shortcut">קיצור דרך</string>
+      <string id="togglezoom">מעבר בין מצבי זום</string>
       <string id="outline">תפריט</string>
+      <string id="disabled_orientation">סובב את המכשיר שלך</string>
+      <string id="next">הבא</string>
+      <string id="acc_next">הבא</string>
+      <string id="transcript_chk">הערות</string>
+      <string id="transcript">הערות</string>
+      <string id="bio">ביוגרפיה</string>
+      <string id="more_info">מידע נוסף</string>
+      <string id="closed_captions">כתוביות</string>
+      <string id="acc_pause">השהה</string>
+      <string id="acc_play">הפעל</string>
+      <string id="send_an_email">שלח הודעת דוא"ל</string>
       <string id="prev">הקודם</string>
+      <string id="acc_previous">הקודם</string>
       <string id="question_list">רשימת שאלות</string>
+      <string id="acc_replay">הפעל מחדש</string>
       <string id="resources">משאבים</string>
+      <string id="acc_resources">משאבים</string>
       <string id="restart">הפעל מחדש</string>
       <string id="resume">המשך מהיכן שהפסקת</string>
+      <string id="acc_search_input">חיפוש</string>
+      <string id="search_toggle">חיפוש</string>
+      <string id="sidebar_toggle">הצגה/הסתרה של הסרגל הצדי</string>
+      <string id="desktop_start">התחל קורס</string>
+      <string id="mobile_start">התחל קורס</string>
       <string id="search">חיפוש...</string>
       <string id="search_in">חיפוש ב:</string>
       <string id="search_results">תוצאות חיפוש</string>
-      <string id="search_toggle">חיפוש</string>
-      <string id="send_an_email">שלח הודעת דוא"ל</string>
-      <string id="shortcut">קיצור דרך</string>
-      <string id="shortcuthelp">רשימת קיצורי מקשים</string>
-      <string id="sidebar_toggle">הצגה/הסתרה של הסרגל הצדי</string>
+      <string id="acc_skipnavigation">.דלג על הניווט הקש "אנטר" כדי לחזור לשקופית</string>
       <string id="slide_text_chk">טקסט שקופית</string>
-      <string id="submit">שלח</string>
       <string id="submitall">שלח הכול</string>
-      <string id="terms">מונחים</string>
-      <string id="togglezoom">מעבר בין מצבי זום</string>
-      <string id="transcript">הערות</string>
-      <string id="transcript_chk">הערות</string>
+      <string id="acc_submitall">שלח הכול</string>
+      <string id="submit">שלח</string>
+      <string id="acc_submit">שלח</string>
+      <string id="acc_volume">עוצמת קול</string>
     </string_table>
   </string_tables>
   <fonts>
@@ -1242,8 +1242,6 @@
             <slidelink slideid="_player.6Q4ohMVVlpy.6jjYPwMSUbM" displaytext="חזון" expand="false" type="slide" />
             <slidelink slideid="_player.6Q4ohMVVlpy.6TvYorZDFoI" displaytext="קוד אתי" expand="false" type="slide" />
             <slidelink slideid="_player.6Q4ohMVVlpy.6Qy8bMtAqqq" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6Q4ohMVVlpy.6WS4L61g3Pk" displaytext="מתוך כבוד והוגנות כלפי האנשים שבאחריותינו נקפיד על:  קיימת יותר מתשובה אחת נכונה" expand="false" type="slide" />
-            <slidelink slideid="_player.6Q4ohMVVlpy.6mDd1y65W9d" displaytext="חוק חסרי ישע מתייחס:" expand="false" type="slide" />
             <slidelink slideid="_player.6Q4ohMVVlpy.6RFjma19WHN" displaytext="אסתטיקה טיפולית 1" expand="false" type="slide" />
             <slidelink slideid="_player.6Q4ohMVVlpy.6k1cljIqzEX" displaytext="אסתטיקה טיפולית 2" expand="false" type="slide" />
             <slidelink slideid="_player.6Q4ohMVVlpy.5jfGC77Ym8W" displaytext="אאסתטיקה טיפולית 3" expand="false" type="slide" />
@@ -1254,17 +1252,7 @@
             <slidelink slideid="_player.6Q4ohMVVlpy.5kLi01Wdfh7" displaytext="תוכנית אישית" expand="false" type="slide" />
             <slidelink slideid="_player.6Q4ohMVVlpy.6rWgXG6Mcqr" displaytext="חוק חסרי ישע" expand="false" type="slide" />
             <slidelink slideid="_player.6Q4ohMVVlpy.6HgKrjkVHQE" displaytext="ארוע חריג" expand="false" type="slide" />
-            <slidelink slideid="_player.6Q4ohMVVlpy.63v0BM3gRRZ" displaytext="תודה שהשתתפת! נשמח למשוב" expand="false" type="slide" />
             <slidelink slideid="_player.6Q4ohMVVlpy.65X8P06pQC2" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6Q4ohMVVlpy.621hCfzZjwx" displaytext="אסתטיקה טיפולית במהלך הטיפול באנשים שבאחריותינו כוללת: קיימת יותר מתשובה אחת נכונה-" expand="false" type="slide" />
-            <slidelink slideid="_player.6Q4ohMVVlpy.5pOgoaM5kgM" displaytext="משוב- לומדת נהלי אלאור באיזה מידה תרמה לך הלומדה מבחינה מקצועית להיכרות עם נהלי הליבה? " expand="false" type="slide" />
-            <slidelink slideid="_player.6Q4ohMVVlpy.5oYU1kui5eu" displaytext="בתוכנית המוגנות של הדייר מתוארים:" expand="false" type="slide" />
-            <slidelink slideid="_player.6Q4ohMVVlpy.6gVhh5gMim9" displaytext="פגיעה מינית בחסר ישע כוללת:" expand="false" type="slide" />
-            <slidelink slideid="_player.6Q4ohMVVlpy.5bnzx0lzlOk" displaytext="כאשר ממלאים טופס ארוע חריג יש להקפיד על:" expand="false" type="slide" />
-            <slidelink slideid="_player.6Q4ohMVVlpy.61LuDdeWK66" displaytext="ארוע חריג כולל: קיימת יותר מתשובה אחת" expand="false" type="slide" />
-            <slidelink slideid="_player.6Q4ohMVVlpy.61lMhRwzwca" displaytext="במידה והיה לך יסוד סביר לחשוב כי חלה עבירה בחסר ישע חובה עליך-" expand="false" type="slide" />
-            <slidelink slideid="_player.6Q4ohMVVlpy.65ZJRdS4nM1" displaytext="פגיעה מילולית בחסר ישע כוללת:" expand="false" type="slide" />
-            <slidelink slideid="_player.6Q4ohMVVlpy.5iHX0QpTJfm" displaytext="שמירה על הפרטיות של מקבל השירות כוללת:" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
